@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **jdevelopquest/jdevelopquest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Bienvenue
+Bonjour, je suis Jacques, technicien développeur. J’apprécie résoudre des problèmes, apprendre et comprendre.
+
+### ⚙️ Compétences
+- PHP 8, Javascript ES6
+- HTML5, CSS, SASS
+- SQL
+- PostgreSql, MariaDB
+- Git, GitHub
+- Docker, Podman
+- PhpMyAdmin
+- PhpStorm, WebStorm
+- Ollama
+- GNU/Linux
+- Krita, Inkscape, Figma
