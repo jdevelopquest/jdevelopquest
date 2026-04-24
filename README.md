@@ -24,8 +24,6 @@ Bonjour, je suis Jacques, technicien développeur. J’apprécie résoudre des p
 - PostgreSql, MariaDB
 - Git, GitHub
 - Docker, Podman
-- PhpMyAdmin
-- PhpStorm, WebStorm
 - Ollama
 - GNU/Linux
 - Krita, Inkscape, Figma
