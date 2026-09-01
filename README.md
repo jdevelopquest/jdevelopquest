@@ -1,29 +1,8 @@
-<!--
-## Hi there 👋
+# Jacques
 
-**jdevelopquest/jdevelopquest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analyser, Comprendre, Résoudre
 
-Here are some ideas to get you started:
+Développeur polyvalent et autonome, je suis animé par la curiosité et le plaisir de comprendre comment les choses fonctionnent. J'aborde le code avec rigueur : analyser, comprendre les mécanismes, apporter une solution technique à chaque problème, et recommencer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 👋 Bienvenue
-Bonjour, je suis Jacques, technicien développeur. J’apprécie résoudre des problèmes, apprendre et comprendre.
-
-### ⚙️ Compétences
-- PHP 8, Javascript ES6
-- HTML5, CSS, SASS
-- SQL
-- PostgreSql, MariaDB
-- Git, GitHub
-- Docker, Podman
-- Ollama
-- GNU/Linux
-- Krita, Inkscape, Figma
+- [GitHub](https://github.com/jdevelopquest)
+- [LinkedIn](https://www.linkedin.com/in/jdevelopquest/)
